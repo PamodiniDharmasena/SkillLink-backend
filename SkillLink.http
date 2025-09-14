@@ -1,0 +1,6 @@
+@SkillLink_HostAddress = http://localhost:5129
+
+GET {{SkillLink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
